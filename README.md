@@ -4,7 +4,6 @@
 
 ## Explorando a Eficiência e Complexidade dos Algoritmos de Ordenação
 
-### Apresentação Rápida
 Fala, pessoal! Tudo bem? Eu sou a Nicole, uma iniciante no mundo da tecnologia e estudante de ciência da computação. Hoje, quero te levar numa viagem super bacana pelo universo dos algoritmos de ordenação. Esses "indivíduos" são fundamentais para deixar nossos dados organizados e nossas buscas super rápidas! Vou te mostrar os principais algoritmos, como e quando usar cada um, suas vantagens e desvantagens, bem como qual a complexidade de cada um deles. Preparado? Então, vamos nessa!
 
 ## O que são algoritmos de ordenação
