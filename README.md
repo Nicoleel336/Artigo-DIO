@@ -45,6 +45,8 @@ Algoritmos de ordenação são métodos usados para organizar elementos em uma o
 
 **Curtiu o artigo? Ele foi gerado por Inteligência Artificial! Quer saber mais sobre algoritmos e estruturas de dados? Siga-me nas redes sociais para mais conteúdo tech!**
 
+[Leia o artigo completo aqui](https://web.dio.me/articles/algoritmos-de-ordenacao-eficiencia-em-diferentes-estruturas-de-dados?back=%2Farticles&open-modal=true&page=1&order=oldest)
+
 ---
 
 *Ilustração de Capa: Lexica.art*  
