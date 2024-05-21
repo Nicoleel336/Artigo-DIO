@@ -1,3 +1,5 @@
+![Ilustração de Capa](Banner.jpg)
+
 # Algoritmos de Ordenação: Eficiência em Diferentes Estruturas de Dados
 
 ## Explorando a Eficiência e Complexidade dos Algoritmos de Ordenação
